@@ -29,8 +29,6 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = ['luno-codestar.herokuapp.com', 'localhost']
-
-
 # Application definition
 
 INSTALLED_APPS = [
